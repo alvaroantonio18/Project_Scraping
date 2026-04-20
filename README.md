@@ -79,8 +79,8 @@ web-scraping-toolkit/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/web-scraping-toolkit.git
-cd web-scraping-toolkit
+git clone https://github.com/alvaroantonio18/Project_Scraping.git
+cd Project_Scraping
 ```
 
 ### 2. Instalar dependencias
@@ -149,7 +149,7 @@ Si te interesa colaborar conmigo en proyectos de scraping o automatización:
 
 - Correo: tu-email@ejemplo.com
 - Workana: [link a tu perfil de Workana]
-- GitHub: [tu-usuario]
+- GitHub: [alvaroantonio18](https://github.com/alvaroantonio18)
 
 ## ⚠️ Nota ética y legal
 
