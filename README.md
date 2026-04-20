@@ -145,10 +145,6 @@ Todos los archivos generados se guardan automáticamente en la carpeta `datos/`.
 
 ## 📬 Contacto
 
-Si te interesa colaborar conmigo en proyectos de scraping o automatización:
-
-- Correo: tu-email@ejemplo.com
-- Workana: [link a tu perfil de Workana]
 - GitHub: [alvaroantonio18](https://github.com/alvaroantonio18)
 
 ## ⚠️ Nota ética y legal
